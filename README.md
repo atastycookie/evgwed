@@ -20,7 +20,7 @@
 - ⚡ Интересные факты: 
   - Zend Certified Engineer (ZCE), сертифицированный PHP разработчик(инженер). [Сcылка на сертификат](http://www.zend.com/en/yellow-pages/ZEND030961)
   - Участвовал в улучшении open source проекта `wapmorgan/Morphos`. <br/>
-    [Morphos](www.morphos.tech) - это библиотека, написанная на PHP, предназначенная для склонения и изменения формы имён людей, географических названий, склонения слов на русском и английском языках
+    [Morphos](http://morphos.io/) - это библиотека, написанная на PHP, предназначенная для склонения и изменения формы имён людей, географических названий, склонения слов на русском и английском языках
   - Преподавал на курсах "Базовый PHP"(2016) и "Современный PHP"(2017) в [IT.Place](https://itplace.simbirsoft.com)
   - В свободное время пишу технические статьи о программировании в личном блоге [evgwed.ru](http://evgwed.ru/)
   - Организатор PHP-сообщества в Ульяновске - [@ulskPHP в telegram](https://t.me/ulskPHP) / [VK](https://vk.com/ulskphp) / [Youtube](https://www.youtube.com/channel/UCODlkh15flKLFtUQBZWtz9A)
